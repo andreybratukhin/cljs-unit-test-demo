@@ -1,6 +1,6 @@
-# cljs-unit-test
+# cljs-unit-test-demo
 
-It's demo ClojureScript application to show [how to set up and run unit tests](http://abratukhin.blogspot.com).
+It's demo ClojureScript application to show [how to set up and run unit tests](http://abratukhin.blogspot.com/2015/03/how-to-set-up-unit-tests-in.html).
 
 ## License
 
